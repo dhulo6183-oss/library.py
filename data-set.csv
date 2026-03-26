@@ -1,0 +1,101 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+1,2024-01-01,U101,Python Basics,Education,5
+2,2024-01-02,U102,Data Science 101,Education,7
+3,2024-01-03,U103,Harry Potter,Fiction,10
+4,2024-01-04,U104,The Alchemist,Fiction,4
+5,2024-01-05,U105,Machine Learning,Education,6
+6,2024-01-06,U106,Deep Learning,Education,8
+7,2024-01-07,U107,Rich Dad Poor Dad,Finance,3
+8,2024-01-08,U108,Think and Grow Rich,Finance,6
+9,2024-01-09,U109,Atomic Habits,Self Help,5
+10,2024-01-10,U110,Ikigai,Self Help,4
+11,2024-01-11,U101,Python Basics,Education,6
+12,2024-01-12,U102,Data Science 101,Education,5
+13,2024-01-13,U103,Harry Potter,Fiction,9
+14,2024-01-14,U104,The Alchemist,Fiction,3
+15,2024-01-15,U105,Machine Learning,Education,7
+16,2024-01-16,U106,Deep Learning,Education,8
+17,2024-01-17,U107,Rich Dad Poor Dad,Finance,4
+18,2024-01-18,U108,Think and Grow Rich,Finance,6
+19,2024-01-19,U109,Atomic Habits,Self Help,5
+20,2024-01-20,U110,Ikigai,Self Help,4
+21,2024-01-21,U101,Python Basics,Education,5
+22,2024-01-22,U102,Data Science 101,Education,6
+23,2024-01-23,U103,Harry Potter,Fiction,10
+24,2024-01-24,U104,The Alchemist,Fiction,4
+25,2024-01-25,U105,Machine Learning,Education,7
+26,2024-01-26,U106,Deep Learning,Education,9
+27,2024-01-27,U107,Rich Dad Poor Dad,Finance,3
+28,2024-01-28,U108,Think and Grow Rich,Finance,6
+29,2024-01-29,U109,Atomic Habits,Self Help,5
+30,2024-01-30,U110,Ikigai,Self Help,4
+31,2024-02-01,U101,Python Basics,Education,5
+32,2024-02-02,U102,Data Science 101,Education,7
+33,2024-02-03,U103,Harry Potter,Fiction,9
+34,2024-02-04,U104,The Alchemist,Fiction,4
+35,2024-02-05,U105,Machine Learning,Education,6
+36,2024-02-06,U106,Deep Learning,Education,8
+37,2024-02-07,U107,Rich Dad Poor Dad,Finance,3
+38,2024-02-08,U108,Think and Grow Rich,Finance,6
+39,2024-02-09,U109,Atomic Habits,Self Help,5
+40,2024-02-10,U110,Ikigai,Self Help,4
+41,2024-02-11,U101,Python Basics,Education,6
+42,2024-02-12,U102,Data Science 101,Education,5
+43,2024-02-13,U103,Harry Potter,Fiction,10
+44,2024-02-14,U104,The Alchemist,Fiction,3
+45,2024-02-15,U105,Machine Learning,Education,7
+46,2024-02-16,U106,Deep Learning,Education,8
+47,2024-02-17,U107,Rich Dad Poor Dad,Finance,4
+48,2024-02-18,U108,Think and Grow Rich,Finance,6
+49,2024-02-19,U109,Atomic Habits,Self Help,5
+50,2024-02-20,U110,Ikigai,Self Help,4
+51,2024-02-21,U101,Python Basics,Education,5
+52,2024-02-22,U102,Data Science 101,Education,6
+53,2024-02-23,U103,Harry Potter,Fiction,9
+54,2024-02-24,U104,The Alchemist,Fiction,4
+55,2024-02-25,U105,Machine Learning,Education,7
+56,2024-02-26,U106,Deep Learning,Education,9
+57,2024-02-27,U107,Rich Dad Poor Dad,Finance,3
+58,2024-02-28,U108,Think and Grow Rich,Finance,6
+59,2024-02-29,U109,Atomic Habits,Self Help,5
+60,2024-03-01,U110,Ikigai,Self Help,4
+61,2024-03-02,U101,Python Basics,Education,5
+62,2024-03-03,U102,Data Science 101,Education,7
+63,2024-03-04,U103,Harry Potter,Fiction,10
+64,2024-03-05,U104,The Alchemist,Fiction,4
+65,2024-03-06,U105,Machine Learning,Education,6
+66,2024-03-07,U106,Deep Learning,Education,8
+67,2024-03-08,U107,Rich Dad Poor Dad,Finance,3
+68,2024-03-09,U108,Think and Grow Rich,Finance,6
+69,2024-03-10,U109,Atomic Habits,Self Help,5
+70,2024-03-11,U110,Ikigai,Self Help,4
+71,2024-03-12,U101,Python Basics,Education,6
+72,2024-03-13,U102,Data Science 101,Education,5
+73,2024-03-14,U103,Harry Potter,Fiction,9
+74,2024-03-15,U104,The Alchemist,Fiction,3
+75,2024-03-16,U105,Machine Learning,Education,7
+76,2024-03-17,U106,Deep Learning,Education,8
+77,2024-03-18,U107,Rich Dad Poor Dad,Finance,4
+78,2024-03-19,U108,Think and Grow Rich,Finance,6
+79,2024-03-20,U109,Atomic Habits,Self Help,5
+80,2024-03-21,U110,Ikigai,Self Help,4
+81,2024-03-22,U101,Python Basics,Education,5
+82,2024-03-23,U102,Data Science 101,Education,6
+83,2024-03-24,U103,Harry Potter,Fiction,10
+84,2024-03-25,U104,The Alchemist,Fiction,4
+85,2024-03-26,U105,Machine Learning,Education,7
+86,2024-03-27,U106,Deep Learning,Education,9
+87,2024-03-28,U107,Rich Dad Poor Dad,Finance,3
+88,2024-03-29,U108,Think and Grow Rich,Finance,6
+89,2024-03-30,U109,Atomic Habits,Self Help,5
+90,2024-03-31,U110,Ikigai,Self Help,4
+91,2024-04-01,U101,Python Basics,Education,5
+92,2024-04-02,U102,Data Science 101,Education,7
+93,2024-04-03,U103,Harry Potter,Fiction,9
+94,2024-04-04,U104,The Alchemist,Fiction,4
+95,2024-04-05,U105,Machine Learning,Education,6
+96,2024-04-06,U106,Deep Learning,Education,8
+97,2024-04-07,U107,Rich Dad Poor Dad,Finance,3
+98,2024-04-08,U108,Think and Grow Rich,Finance,6
+99,2024-04-09,U109,Atomic Habits,Self Help,5
+100,2024-04-10,U110,Ikigai,Self Help,4

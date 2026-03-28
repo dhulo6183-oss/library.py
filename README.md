@@ -215,7 +215,7 @@ For questions or clarifications about this project structure and implementation 
 
 **Last Updated:** March 26, 2026
 
-**Project Author:** [Your Name]
+**Project Author:** [dhruv prajapti]
 
 **License:** [To be specified]
 

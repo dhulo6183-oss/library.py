@@ -12,13 +12,6 @@
 
 # 📚 Library Management System
 
-> **"Organize smarter. Report faster. Visualize deeper."**
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)]()
-
 ---
 
 *A powerful, terminal-based library management tool built with Python — designed to streamline data loading, transaction filtering, statistical analysis, and rich visualization.*
@@ -190,7 +183,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 👤 Author & Project Info
+## Project Info
 
 | Field | Details |
 |-------|---------|
@@ -201,12 +194,13 @@ Contributions, issues, and feature requests are welcome!
 | **Version** | 1.0.0 |
 
 ---
+👨‍💻 Author
+
+Dhruv Prajapati
 
 <div align="center">
 
 **Made with ❤️ for libraries everywhere**
 
-
-`library.py` · `UI.png` · `LICENSE.txt` · `README.md`
 
 </div>

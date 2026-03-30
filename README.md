@@ -1,19 +1,18 @@
 <div align="center">
-<div align="center">
-```
 
+```
 ██╗     ██╗██████╗ ██████╗  █████╗ ██████╗ ██╗   ██╗
 ██║     ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
 ██║     ██║██████╔╝██████╔╝███████║██████╔╝ ╚████╔╝ 
 ██║     ██║██╔══██╗██╔══██╗██╔══██║██╔══██╗  ╚██╔╝  
 ███████╗██║██████╔╝██║  ██║██║  ██║██║  ██║   ██║   
 ╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
-
          M A N A G E M E N T   S Y S T E M
 ```
-</div>
 
 # 📚 Library Management System
+
+> **"Organize smarter. Report faster. Visualize deeper."**
 
 ---
 
@@ -186,7 +185,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## Project Info
+##  Project Info
 
 | Field | Details |
 |-------|---------|
@@ -197,13 +196,13 @@ Contributions, issues, and feature requests are welcome!
 | **Version** | 1.0.0 |
 
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 
-Dhruv Prajapati
+**Dhruv Prajapati** 🚀  
 
 <div align="center">
 
 **Made with ❤️ for libraries everywhere**
-
+---
 
 </div>
